@@ -16,6 +16,6 @@ All features of a standard calculator
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/NdubuisiJr/demo-entityframework/blob/master/LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/NdubuisiJr/winForms-calculator/blob/master/LICENSE) file for details
 
 
