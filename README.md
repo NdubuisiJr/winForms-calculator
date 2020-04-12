@@ -7,7 +7,7 @@ All features of a standard calculator
 ## Gallery
 
 <p>
-  <img src="CalculatorInterface.PNG"/>
+  <img src="https://github.com/NdubuisiJr/winForms-calculator/blob/master/ProjectFiles/CalculatorInterface.PNG" />
 <p/>
 
 ## Authors
